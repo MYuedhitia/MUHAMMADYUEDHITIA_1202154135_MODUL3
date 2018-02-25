@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MuhammadYuedhitia 1202154135 modul3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="judul_placeholder">Title</string>
+    <string name="keterangan_placeholder">News</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+
+    <string-array name="judul_air">
+        <item>Ades</item>
+        <item>Pristine</item>
+        <item>Aqua</item>
+        <item>Nestle</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Cleo</item>
+        <item>amidis</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="keterangan_air">
+        <item>Ini adalah air Ades</item>
+        <item>Ini adalah air Amidis</item>
+        <item>Ini adalah air Aqua</item>
+        <item>Ini adalah air Nestle</item>
+        <item>Ini adalah air Club</item>
+        <item>Ini adalah air Equil</item>
+        <item>Ini adalah air Evian</item>
+        <item>Ini adalah air Leminerale</item>
+        <item>Ini adalah air Cleo</item>
+        <item>Ini adalah air amidis</item>
+        <item>Ini adalah air Vit</item>
+    </string-array>
+
+    <array name="air_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>
